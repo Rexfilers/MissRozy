@@ -75,15 +75,15 @@ async def start(bot: Client, cmd: Message):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("🍿supp⊕r† gr⊕up", url="https://t.me/LazyDeveloperSupport"),
-                        InlineKeyboardButton("🔊ß⊕†s chαηηεl", url="https://t.me/LazyDeveloper")
+                        InlineKeyboardButton("🍿supp⊕r† gr⊕up", url="https://t.me/MOVIES_PROVIDE2"),
+                        InlineKeyboardButton("🔊ß⊕†s chαηηεl", url="https://t.me/MOVIES_PROVIDE")
                     ],
                     [
                         InlineKeyboardButton("🤖Aß⊕ut ß⊕†", callback_data="aboutbot"),
                         InlineKeyboardButton("♥️Aß⊕ut Đ€V", callback_data="aboutdevs")
                     ],
                     [
-                        InlineKeyboardButton("⎝⎝✧✧ ᴡᴀᴛᴄʜ ᴛᴜᴛᴏʀɪᴀʟ ✧✧⎠⎠", url="https://youtu.be/Rtjyz3lEZwE")
+                        InlineKeyboardButton("⎝⎝✧✧ ᴡᴀᴛᴄʜ ᴛᴜᴛᴏʀɪᴀʟ ✧✧⎠⎠", url="https://t.me/MOVIES_PROVIDE")
                     ]]))
         else :
             await cmd.reply_photo(photo=lazy_pic,
@@ -91,15 +91,15 @@ async def start(bot: Client, cmd: Message):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("🍿supp⊕r† gr⊕up", url="https://t.me/LazyDeveloperSupport"),
-                        InlineKeyboardButton("🔊ß⊕†s chαηηεl", url="https://t.me/LazyDeveloper")
+                        InlineKeyboardButton("🍿supp⊕r† gr⊕up", url="https://t.me/MOVIES_PROVIDE2"),
+                        InlineKeyboardButton("🔊ß⊕†s chαηηεl", url="https://t.me/MOVIES_PROVIDE")
                     ],
                     [
                         InlineKeyboardButton("🤖Aß⊕ut ß⊕†", callback_data="aboutbot"),
                         InlineKeyboardButton("♥️Aß⊕ut Đ€V", callback_data="aboutdevs")
                     ],
                     [
-                        InlineKeyboardButton("⎝⎝✧✧ ᴡᴀᴛᴄʜ ᴛᴜᴛᴏʀɪᴀʟ ✧✧⎠⎠", url="https://youtu.be/Rtjyz3lEZwE")
+                        InlineKeyboardButton("⎝⎝✧✧ ᴡᴀᴛᴄʜ ᴛᴜᴛᴏʀɪᴀʟ ✧✧⎠⎠", url="https://t.me/MOVIES_PROVIDE")
                     ]]))
            
     else:
@@ -332,7 +332,7 @@ async def button(bot: Client, cmd: CallbackQuery):
                 [
                     [
                         InlineKeyboardButton("⚡️SФUЯCΞ CФDΞS ФF ß⊕Γ",
-                                             url="https://github.com/LazyDeveloperr/MissRozy")
+                                             url="https://t.me/MOVIES_PROVIDE")
                     ],
                     [
                         InlineKeyboardButton("GФ HФMΞ", callback_data="gotohome"),
@@ -350,7 +350,7 @@ async def button(bot: Client, cmd: CallbackQuery):
                 [
                     [
                         InlineKeyboardButton("⚡️SФUЯCΞ CФDΞS ФF ß⊕Γ",
-                                             url="https://github.com/LazyDeveloperr/MissRozy")
+                                             url="https://t.me/MOVIES_PROVIDE")
                     ],
                     [
                         InlineKeyboardButton("🤖Aß⊕ut ß⊕t", callback_data="aboutbot"),
@@ -368,15 +368,15 @@ async def button(bot: Client, cmd: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("🍿supp⊕r† gr⊕up", url="https://t.me/LazyDeveloperSupport"),
-                        InlineKeyboardButton("🔊ß⊕ts Channel", url="https://t.me/LazyDeveloper")
+                        InlineKeyboardButton("🍿supp⊕r† gr⊕up", url="https://t.me/MOVIES_PROVIDE2"),
+                        InlineKeyboardButton("🔊ß⊕ts Channel", url="https://t.me/MOVIES_PROVIDE")
                     ],
                     [
                         InlineKeyboardButton("🤖Aß⊕ut ß⊕t", callback_data="aboutbot"),
                         InlineKeyboardButton("♥️Aß⊕ut Đ€V", callback_data="aboutdevs")
                     ],
                     [
-                        InlineKeyboardButton("⎝⎝✧✧ ᴡᴀᴛᴄʜ ᴛᴜᴛᴏʀɪᴀʟ ✧✧⎠⎠", url="https://youtu.be/Rtjyz3lEZwE")
+                        InlineKeyboardButton("⎝⎝✧✧ ᴡᴀᴛᴄʜ ᴛᴜᴛᴏʀɪᴀʟ ✧✧⎠⎠", url="https://t.me/MOVIES_PROVIDE")
                     ]
                 ]
             )
@@ -388,15 +388,15 @@ async def button(bot: Client, cmd: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("🍿supp⊕r† gr⊕up", url="https://t.me/LazyDeveloperSupport"),
-                        InlineKeyboardButton("🔊ß⊕ts Channel", url="https://t.me/LazyDeveloper")
+                        InlineKeyboardButton("🍿supp⊕r† gr⊕up", url="https://t.me/MOVIES_PROVIDE2"),
+                        InlineKeyboardButton("🔊ß⊕ts Channel", url="https://t.me/MOVIES_PROVIDE")
                     ],
                     [
                         InlineKeyboardButton("🤖Aß⊕ut ß⊕t", callback_data="aboutbot"),
                         InlineKeyboardButton("♥️Aß⊕ut Đ€V", callback_data="aboutdevs")
                     ],
                     [
-                        InlineKeyboardButton("⎝⎝✧✧ ᴡᴀᴛᴄʜ ᴛᴜᴛᴏʀɪᴀʟ ✧✧⎠⎠", url="https://youtu.be/Rtjyz3lEZwE")
+                        InlineKeyboardButton("⎝⎝✧✧ ᴡᴀᴛᴄʜ ᴛᴜᴛᴏʀɪᴀʟ ✧✧⎠⎠", url="https://t.me/MOVIES_PROVIDE")
                     ]
                 ]
             )
@@ -412,7 +412,7 @@ async def button(bot: Client, cmd: CallbackQuery):
                 user = await bot.get_chat_member(channel_chat_id, cmd.message.chat.id)
                 if user.status == "kicked":
                     await cmd.message.edit(
-                        text="ꜱᴏʀʀʏ ꜱɪʀ, ʏᴏᴜ ᴀʀᴇ ʙᴀɴɴᴇᴅ ᴛᴏ ᴜꜱᴇ ᴍᴇ. ᴄᴏɴᴛᴀᴄᴛ ᴍʏ [Support Group](https://t.me/LazyDeveloperSupport).",
+                        text="ꜱᴏʀʀʏ ꜱɪʀ, ʏᴏᴜ ᴀʀᴇ ʙᴀɴɴᴇᴅ ᴛᴏ ᴜꜱᴇ ᴍᴇ. ᴄᴏɴᴛᴀᴄᴛ ᴍʏ [Support Group](https://t.me/MOVIES_PROVIDE2).",
                         disable_web_page_preview=True
                     )
                     return
@@ -446,15 +446,15 @@ async def button(bot: Client, cmd: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("🍿supp⊕r† gr⊕up", url="https://t.me/LazyDeveloperSupport"),
-                        InlineKeyboardButton("🔊ß⊕ts Channel", url="https://t.me/LazyDeveloper")
+                        InlineKeyboardButton("🍿supp⊕r† gr⊕up", url="https://t.me/MOVIES_PROVIDE2"),
+                        InlineKeyboardButton("🔊ß⊕ts Channel", url="https://t.me/MOVIES_PROVIDE")
                     ],
                     [
                         InlineKeyboardButton("🤖Aß⊕ut ß⊕t", callback_data="aboutbot"),
                         InlineKeyboardButton("♥️Aß⊕ut Đ€V", callback_data="aboutdevs")
                     ],
                     [
-                        InlineKeyboardButton("⎝⎝✧✧ ᴡᴀᴛᴄʜ ᴛᴜᴛᴏʀɪᴀʟ ✧✧⎠⎠", url="https://youtu.be/Rtjyz3lEZwE")
+                        InlineKeyboardButton("⎝⎝✧✧ ᴡᴀᴛᴄʜ ᴛᴜᴛᴏʀɪᴀʟ ✧✧⎠⎠", url="https://t.me/MOVIES_PROVIDE")
                     ]
                 ]
             )
@@ -466,15 +466,15 @@ async def button(bot: Client, cmd: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("🍿supp⊕r† gr⊕up", url="https://t.me/LazyDeveloperSupport"),
-                        InlineKeyboardButton("🔊ß⊕ts Channel", url="https://t.me/LazyDeveloper")
+                        InlineKeyboardButton("🍿supp⊕r† gr⊕up", url="https://t.me/MOVIES_PROVIDE2"),
+                        InlineKeyboardButton("🔊ß⊕ts Channel", url="https://t.me/MOVIES_PROVIDE")
                     ],
                     [
                         InlineKeyboardButton("🤖Aß⊕ut ß⊕t", callback_data="aboutbot"),
                         InlineKeyboardButton("♥️Aß⊕ut Đ€V", callback_data="aboutdevs")
                     ],
                     [
-                        InlineKeyboardButton("⎝⎝✧✧ ᴡᴀᴛᴄʜ ᴛᴜᴛᴏʀɪᴀʟ ✧✧⎠⎠", url="https://youtu.be/Rtjyz3lEZwE")
+                        InlineKeyboardButton("⎝⎝✧✧ ᴡᴀᴛᴄʜ ᴛᴜᴛᴏʀɪᴀʟ ✧✧⎠⎠", url="https://t.me/MOVIES_PROVIDE")
                     ]
                 ]
             )
